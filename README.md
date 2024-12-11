@@ -1,5 +1,5 @@
 Hi Nige here, 
-currently learning c <br>
+currently learning c++ <br>
 Let me know if you have any tips...
 
 
