@@ -19,9 +19,10 @@
 
 
 
+![](https://github-readme-stats.vercel.app/api?username=NigeParis&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NigeParis&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NigeParis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NigeParis&hide=perl,roff&theme=tokyonight)
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=NigeParis&hide=ruff&show_icons=true&theme=radical)
 
 
 <!--START_
