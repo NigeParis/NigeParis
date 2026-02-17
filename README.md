@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nigel</h1>
 <h3 align="center">Student at 42 School Paris</h3>
 
-- 🌱 I’m currently learning **asm**
+- 🌱 I’m currently learning **python**
 
 - 🤝 I’m looking for help with **finding a work placement for 2026**
 
